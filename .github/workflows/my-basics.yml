@@ -5,7 +5,7 @@ name: My-GitHubActions-Basics
 on:
   push:
     branches: 
-      - hillel-lesson-18
+      - lesson18
 
 jobs: 
   my_testing:
